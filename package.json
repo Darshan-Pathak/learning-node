@@ -1,0 +1,27 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firstServer.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darshan-Pathak/learning-node.git"
+  },
+  "keywords": [
+    "learning",
+    "node",
+    "js"
+  ],
+  "author": "Darshan Pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darshan-Pathak/learning-node/issues"
+  },
+  "homepage": "https://github.com/Darshan-Pathak/learning-node#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
